@@ -5,5 +5,6 @@ public class HomeController{
 
     public int ID? = {get; set}
 
-    
+    public int Age? = {get;set}
+
 }
